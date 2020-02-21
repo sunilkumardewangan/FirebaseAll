@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':firestoreapp', ':databaseapp'
 rootProject.name='FirebaseAll'
